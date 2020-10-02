@@ -1,11 +1,19 @@
+
 .topnav {
     background-color: pink;
     overflow: hidden;
 }
 
 h1 {
-   color: #FF8C00;
+   color: maroon;
    text-align: center;
+}
+.cursive {
+    font-family: cursive
+}
+
+.capitalize {
+    text-transform: capitalize;
 }
 
 h3 {
