@@ -4,9 +4,23 @@
 }
 
 h1 {
-   color: #DC143C;
+   color: #FF8C00;
+   text-align: center;
+}
+
+h3 {
+    text-align: center;
 }
 
 body {
-    background-color: gray;
+    background-color:#5F9EA0;
+    
+}
+
+#date {
+    text-align: center;
+}
+
+#name {
+    color: red;
 }
