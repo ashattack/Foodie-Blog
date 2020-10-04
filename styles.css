@@ -23,7 +23,7 @@
     font-size: 22px;
     line-height: 24px;
     padding-bottom: 30px;
-    text-align: left;
+    text-align: justify;
     width: 70%;
     font-family: Georgia;
 }
@@ -54,6 +54,8 @@ h1 {
 
 h3 {
     text-align: center;
+    text-decoration-line: underline;
+    text-decoration-style: double;
 }
 
 body {
@@ -64,6 +66,11 @@ body {
 }
 
 #date{
+    box-sizing: border-box;
+    width: 100px;
+    height: 60px;
+    padding: 10px;  
+    border: 5px solid black;
     text-align: left;
 }
 
@@ -72,5 +79,10 @@ body {
 }
 
 #txt {
+    box-sizing: border-box;
+    width: 100px;
+    height: 50px;
+    padding: 10px;  
+    border: 5px solid black;
     text-align: right;
-    }
+      }
