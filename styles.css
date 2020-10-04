@@ -63,11 +63,14 @@ body {
     
 }
 
-
-.date {
+#date{
     text-align: left;
 }
 
 #name {
     color: red;
 }
+
+#txt {
+    text-align: right;
+    }
