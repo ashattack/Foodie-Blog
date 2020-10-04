@@ -45,6 +45,8 @@
     opacity: 1;
 }
 
+
+
 h1 {
    color: maroon;
    text-align: center;
@@ -62,8 +64,8 @@ body {
 }
 
 
-#date {
-    text-align: center;
+.date {
+    text-align: left;
 }
 
 #name {
