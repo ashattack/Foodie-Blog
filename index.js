@@ -1,3 +1,4 @@
+
 // Setting the current time 
 function startTime() {
     var today = new Date();
