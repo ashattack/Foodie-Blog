@@ -44,6 +44,8 @@
 
 
 
+
+
 h1 {
    color: maroon;
    text-align: center;
@@ -91,6 +93,27 @@ body {
     
 }
 
+.center {
+    display: block;
+    margin-left: left;
+    margin-right: auto;
+  }
+
+  .column {
+    float: left;
+    padding: 5px;
+  }
+  
+  .row::after {
+    content: "";
+    clear: both;
+    display: table;
+  }
+
+  .headings {
+      text-align: left;
+  }
+
 #date{
     box-sizing: border-box;
     width: 95px;
@@ -112,3 +135,7 @@ body {
     border: 5px solid black;
     text-align: right;
       }
+
+#cuisine {
+    text-align: center;
+}
