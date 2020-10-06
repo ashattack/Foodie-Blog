@@ -42,9 +42,15 @@
     opacity: 1;
 }
 
-
-
-
+.track {
+    background-color:
+  box-sizing: border-box;
+  padding: 10px;
+  text-align: center;
+  width: 10%;
+  position: fixed;
+  top: 100px;
+}
 
 h1 {
    color: maroon;
