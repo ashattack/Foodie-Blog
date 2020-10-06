@@ -43,7 +43,6 @@
 }
 
 .track {
-    background-color:
   box-sizing: border-box;
   padding: 10px;
   text-align: center;
@@ -99,6 +98,11 @@ body {
     
 }
 
+footer {
+    text-align: center;
+    height: 100px;
+  }
+  
 .center {
     display: block;
     margin-left: left;
